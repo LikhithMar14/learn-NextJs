@@ -16,7 +16,7 @@ export default function Login() {
   };
   return (
     <div className="flex justify-center items-center h-screen max-w-full">
-    <div className="max-w-md w-full mx-auto rounded-none md:rounded-2xl p-4 md:p-8 bg-white dark:bg-black border border-blue-900 shadow-lg">
+    <div className="max-w-md w-full mx-auto rounded-none md:rounded-2xl p-4 md:p-8 bg-white dark:bg-black hover:border border-blue-900 shadow-md shadow-blue-500">
       <h2 className="font-bold text-xl text-neutral-800 dark:text-neutral-200">
         Welcome to Brainly
       </h2>
